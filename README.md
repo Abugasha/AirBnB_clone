@@ -166,6 +166,6 @@ guillaume@ubuntu:~/AirBnB$ ./console.py
 ```
 
 # Authors
-* **Abubaker abbas Ahmed** - [abubakrabas](https://github.com/abubakrabas) &
+* **Abubaker abbas Ahmed** - [abubakrabas](https://github.com/abubakrabas) 
  * **Shihab Mustafa** - [Abugasha](https://github.com/Abugasha)
 
