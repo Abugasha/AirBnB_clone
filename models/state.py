@@ -1,9 +1,9 @@
 #!/usr/bin/python3
-""" Class State """
+"""Module for State class."""
 
 from models.base_model import BaseModel
 
 
 class State(BaseModel):
-    """ Class State """
+    """Class representing a State."""
     name = ""
