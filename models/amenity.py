@@ -1,9 +1,9 @@
-#!/usr/bin/python3
-"""Module for Amenity class."""
+#!/usr/bin/env python3
+""" Class Amenity """
 
 from models.base_model import BaseModel
 
 
 class Amenity(BaseModel):
-    """Class representing a Amenity."""
+    """ Class Amenity """
     name = ""
